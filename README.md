@@ -4,8 +4,8 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 ## Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
-[Test][test]
-- [test]: https://github.com/esrasrtkara/kodluyoruzilkrepo.git
+
+' (github clone https://github.com/esrasrtkara/kodluyoruzilkrepo.git)'
 
 
 ## Usage
